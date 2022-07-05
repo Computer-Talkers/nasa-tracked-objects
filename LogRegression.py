@@ -55,7 +55,7 @@ print("Testing Targets")
 print(f"{testing_targets.head(5)}\n")
 
 '''
-Now we are going to fit our logistic regression model and the see the fit score for the training and testing datasets.
+Now we are going to fit our logistic regression model and then see the fit score for the training and testing datasets.
 Results show:
 Training fit score:  0.9026118786811251
 Testing fit score:  0.9029612505504183
