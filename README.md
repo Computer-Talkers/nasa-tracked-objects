@@ -24,8 +24,8 @@
 > Run the following commands to pull the code to your local machine and install the dependency packages:
 > 1. mkdir name
 > 2. git clone https://github.com/Computer-Talkers/nasa-tracked-objects.git
-> 3. python -m venv venv
-> 4. source venv/bin/activate
+> 3. python -m venv venv (Windows: py -m venv venv)
+> 4. source venv/bin/activate (Windows: .\venv\Scripts\activate)
 > 5. pip install -r requirements.txt
 > 
 > Replace name in step 1 with what ever you want to name the directory that stores the code locally on your machine.
