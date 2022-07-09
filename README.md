@@ -1,7 +1,6 @@
 # Machine Learning using Nasa's Nearest Earth Objects
 ## Theory
-> In this project we will be classifying whether an object is a threat to earth or not. We will be training and
-> developing a machine learning model to perform this task.
+suppo
 > 
 > "In machine learning, classification refers to a predictive modeling problem where a class label is predicted 
 > for a given example of input data." (1)
